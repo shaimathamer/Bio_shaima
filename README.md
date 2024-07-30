@@ -11,5 +11,5 @@ I'm  a Ph.D. holder, motivated researcher, scientist, and data analyst, I have r
 
 	[!["Follow me on researchgate"]](https://www.researchgate.net/profile/Shaima-Algabli)
   [!["LinkedIn"](](https://www.linkedin.com/in/drshaimaalgabli/)
-  [!["Medium"]https://shaimaalgabli12.medium.com/](https://shaimaalgabli12.medium.com/)
+  [!["Medium"]https://shaimaalgabli12.medium.com/]
   
