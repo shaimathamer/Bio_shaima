@@ -9,7 +9,7 @@ I'm a Ph.D  at [Mega Trust](https://megatrust.net), Google Developer Expert ([GD
 - 💬 Ask me about  Python,Data Science ,Graph ,System Design ,Programming Design.
 - 📫 How to reach me:
 
-	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://www.researchgate.net/profile/Shaima-Algabli)
+	[!["Follow me on researchgate"]](https://www.researchgate.net/profile/Shaima-Algabli)
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
   [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://youtube.com/TarekAlabd)
   [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd)
